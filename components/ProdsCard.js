@@ -1,7 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
 import Prpp from '../images/sakib.jpg'
-import Styles from '../styles/ProdsCard.module.css'
 function ProdsCard() {
   return (
     <div>
